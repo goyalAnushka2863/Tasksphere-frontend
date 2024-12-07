@@ -1,1 +1,1 @@
-export const BASE_URL = 'https://task-sphere-backend-lilac.vercel.app'
+export const BASE_URL = 'https://tasksphere-backend.onrender.com/'
